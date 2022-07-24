@@ -21,8 +21,8 @@
 .contact
 {
     width: auto;
-    height: auto;
     text-align-last: center;
+    display: block;
     border: 1px solid #5bccfc;
     padding: 3px;
     border-radius: 5px;
