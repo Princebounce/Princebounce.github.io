@@ -20,11 +20,10 @@
 }
 .contact
 {
-    margin : 0px 150px 8px;
-    /*width: auto;*/
+    width: auto;
     height: auto;
     text-align-last: center;
-    border: 3px solid #5bccfc;
+    border: 1px solid #5bccfc;
     padding: 3px;
     border-radius: 5px;
     padding: 3px;
