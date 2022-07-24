@@ -1,0 +1,148 @@
+.body
+{
+    background-color: #fcde67;
+    padding: 5px;
+    justify-content: center;
+    margin: auto;
+    border: 5px solid #5bccfc;
+}
+.intro
+{   
+    border-radius: 5px;
+    padding: 3px;
+    border: 2px solid #5bccfc;
+    display: inline-flex;
+
+}
+.img
+{
+    display: inline-block;
+}
+.contact
+{
+    margin : 0px 150px 8px;
+    width: auto;
+    height: auto;
+    text-align-last: center;
+    border: 3px solid #5bccfc;
+    padding: 3px;
+    border-radius: 5px;
+    padding: 3px;
+}
+#int
+{
+    margin: 5px;
+}
+.container
+{
+    height: auto;
+    border: 5px solid #5bccfc;
+    display: flex;
+    flex-flow: wrap;
+    width: 100%;
+    border-radius: 10px;
+    justify-content: space-between;
+
+}
+.block
+{
+    border: 5px solid #5bccfc;
+    margin: 5px;
+    height: auto;
+    width: 48%;
+    padding: 5px;
+    border-radius: 10px #5bccfc;
+}
+.cv
+{
+    border: 5px solid #5bccfc;
+    margin : 5px;
+    border-radius: 10px;
+    height: auto;
+    width: 45%;
+    padding: 5px;
+    text-align: left;
+    border: #5bccfc;
+}
+.workex
+{
+    text-align: justify;
+    padding: 3px;
+    margin: 10px;
+}
+.skill
+{
+    border: 3px solid #5bccfc;
+    margin: 50%;
+    border-radius: 10px;
+    height: auto;
+    width: auto;
+    padding: 5px;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;   
+}
+.achievement
+{
+    border: 3px solid #5bccfc;
+    margin : 5px;
+    border-radius: 10px;
+    height: auto;
+    width:  auto;
+    flex-flow: wrap;
+    padding: 5px;
+}
+.language
+{
+    border: 3px solid #5bccfc;
+    margin : 5px;
+    border-radius: 10px;
+    height: auto;
+    width: auto;
+    flex-flow: wrap;
+    padding: 5px;
+    justify-content: center;
+}
+.interest
+{
+    border: 3px solid #5bccfc;
+    border-radius: 10px;
+    height: auto;
+    width: auto;
+    padding: 5px;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
+.education
+{
+    border: 3px solid #5bccfc;
+    margin : 5px;
+    border-radius: 10px;
+    height: auto;
+    width:  auto;
+    flex-flow: wrap;
+    padding: 5px;
+    text-align: center;
+} 
+#skillset
+{
+    padding: 2px;
+    border: 3px solid #5bccfc; 
+    margin : 5px;
+    flex-flow: wrap;
+    border-radius: 10px;
+    align-self: center;
+    justify-content: center;
+}
+#likes
+{
+    display: flex;
+    padding: 2px;
+    border: 3px solid #5bccfc;
+    margin : 5px;
+    flex-flow: wrap;
+    border-radius: 10px;
+    align-self: center;
+    justify-content: center;
+}
